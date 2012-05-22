@@ -1,0 +1,6 @@
+[submodule "test/data/bootstrap"]
+	path = test/data/bootstrap
+	url = https://github.com/twitter/bootstrap/
+[submodule "src_managed/node-optimist"]
+	path = src_managed/node-optimist
+	url = http://github.com/substack/node-optimist.git

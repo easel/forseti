@@ -1,1 +1,4 @@
-This file was created by IntelliJ IDEA 11.1.2 for binding GitHub repository
+Forseti: a simple front-end asset publisher.
+
+Usage:
+    node src/freeze.js --source test
